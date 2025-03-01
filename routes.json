@@ -3,12 +3,9 @@
         "url": "https://netherhost.nl/"
     },
     "SQL to Laravel": {
-        "url": "https://stq.netherhost.nl/"
+        "url": "https://sql-to-laravel.vercel.app/"
     },
     "Choice Spinner": {
         "url": "https://spin-decision.vercel.app/"
     },
-    "Test": {
-        "url": "https://test.netherhost.nl"
-    }
 }
